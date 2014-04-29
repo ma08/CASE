@@ -1,0 +1,9 @@
+This is a project done for the Software Engineering course in my 2nd Year of
+B.Tech CSE at IIT Kharagpur along with a teammate(Srinath Mandava).
+It is a CASE(Computer Aided Software Engineering) Tool used to create data flow diagrams, hierarchies etc.
+The Structured Analysis part isn't fully implemented.So beware. It uses serialization to save files.
+User Manual will be suppliedrequest(thisisma08@gmail.com).
+It was just done for a project, no correctness and support is guaranteed.
+
+Done by Sourya Kakarla and Srinath Mandava
+
